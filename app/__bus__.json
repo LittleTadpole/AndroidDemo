@@ -1,0 +1,9 @@
+{
+  "BusUtilsClass": "com.blankj.utilcode.util.BusUtils",
+  "rightBus": {
+    "title": [
+      "{ desc: com.example.androiddemo.MainActivity#setTitle(java.lang.String title) }"
+    ]
+  },
+  "wrongBus": {}
+}
